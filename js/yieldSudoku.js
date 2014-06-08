@@ -29,6 +29,7 @@ $(document).ready(function() {
 			input.css("width", "20px");
 			input.css("height", "20px");
 			input.css("ime-mode", "disabled");
+			input.css("background-color", "white");
 			col.append(input);
 			row.append(col);
 		}
